@@ -1,0 +1,17 @@
+10.1.0.1       pfs-obj-server-1  server1 
+10.1.0.2       pfs-obj-server-2  server2
+10.1.0.3       pfs-obj-server-3  server3
+10.1.0.4       pfs-obj-server-4  server4
+10.1.0.5       pfs-obj-server-5  server5
+10.1.0.6       pfs-obj-server-6  server6
+10.1.0.7       pfs-obj-server-7  server7
+10.1.0.8       pfs-obj-server-8  server8
+                                     
+10.1.0.101     pfs-obj-client-1  client1
+10.1.0.102     pfs-obj-client-2  client2
+10.1.0.103     pfs-obj-client-3  client3
+10.1.0.104     pfs-obj-client-4  client4
+10.1.0.105     pfs-obj-client-5  client5
+10.1.0.106     pfs-obj-client-6  client6
+10.1.0.107     pfs-obj-client-7  client7
+10.1.0.108     pfs-obj-client-8  client8

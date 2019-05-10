@@ -1,0 +1,20 @@
+# .bashrc
+
+# Source global definitions
+if [ -f /etc/bashrc ]; then
+	. /etc/bashrc
+fi
+
+# Uncomment the following line if you don't like systemctl's auto-paging feature:
+# export SYSTEMD_PAGER=
+
+# User specific aliases and functions
+
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$/opt/ohpc/pub/orangefs/lib
+
+export CLASSPATH=$CLASSPATH:/home/hliu91/Jredis/jedis-3.0.1.jar 
+export CLASSPATH=$CLASSPATH:/home/hliu91/Jredis/slf4j-1.7.26/slf4j-api-1.7.26.jar
+export CLASSPATH=$CLASSPATH:/home/hliu91/Jredis/slf4j-1.7.26/slf4j-jdk14-1.7.26.jar 
+#export CLASSPATH=$CLASSPATH:/home/hliu91/Jredis/slf4j-1.7.26/slf4j-log4j12-1.7.26.jar 
+export CLASSPATH=$CLASSPATH:/home/hliu91/Jredis/commons-pool2-2.6.2/commons-pool2-2.6.2.jar 
+
